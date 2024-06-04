@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "name": "Hawaii",
+        "video": "http://localhost:5050/hawaii/hawaiiVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/hawaii/hawaii1.mp4",
+            "http://localhost:5050/hawaii/hawaii2.mp4",
+            "http://localhost:5050/hawaii/hawaii3.mp4",
+            "http://localhost:5050/hawaii/hawaii4.mp4",
+            "http://localhost:5050/hawaii/hawaii5.mp4",
+            "http://localhost:5050/hawaii/hawaii6.mp4"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Greece",
+        "video": "http://localhost:5050/greece/greeceVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/greece/greece1.mp4",
+            "http://localhost:5050/greece/greece2.mp4",
+            "http://localhost:5050/greece/greece3.mp4",
+            "http://localhost:5050/greece/greece4.mp4",
+            "http://localhost:5050/greece/greece5.mp4",
+            "http://localhost:5050/greece/greece6.mp4"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Vietnam",
+        "video": "http://localhost:5050/vietnam/vietnamVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/vietnam/vietnam1.mp4",
+            "http://localhost:5050/vietnam/vietnam2.mp4",
+            "http://localhost:5050/vietnam/vietnam3.mp4",
+            "http://localhost:5050/vietnam/vietnam4.mp4",
+            "http://localhost:5050/vietnam/vietnam5.mp4",
+            "http://localhost:5050/vietnam/vietnam6.mp4"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Scotland",
+        "video": "http://localhost:5050/scotland/scotlandVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/scotland/scotland1.mp4",
+            "http://localhost:5050/scotland/scotland2.mp4",
+            "http://localhost:5050/scotland/scotland3.mp4",
+            "http://localhost:5050/scotland/scotland4.mp4",
+            "http://localhost:5050/scotland/scotland5.mp4",
+            "http://localhost:5050/scotland/scotland6.mp4"
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+    {
+        "id": "2",
+        "name": "scotland",
+        "video": "./imgs-vids/scotland/scotlandVideo.mp4",
+        "landscape": [
+            "./imgs-vids/scotland/scotland1.mp4",
+            "./imgs-vids/scotland/scotland2.mp4",
+            "./imgs-vids/scotland/scotland3.mp4",
+            "./imgs-vids/scotland/scotland4.mp4",
+            "./imgs-vids/scotland/scotland5.mp4",
+            "./imgs-vids/scotland/scotland6.mp4"
+        ]
+    }
