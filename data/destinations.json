@@ -4,12 +4,12 @@
         "name": "Hawaii",
         "video": "http://localhost:5050/hawaii/hawaiiVideo.mp4",
         "landscape": [
-            "http://localhost:5050/hawaii/hawaii1.mp4",
-            "http://localhost:5050/hawaii/hawaii2.mp4",
-            "http://localhost:5050/hawaii/hawaii3.mp4",
-            "http://localhost:5050/hawaii/hawaii4.mp4",
-            "http://localhost:5050/hawaii/hawaii5.mp4",
-            "http://localhost:5050/hawaii/hawaii6.mp4"
+            "http://localhost:5050/hawaii/hawaii1.jpg",
+            "http://localhost:5050/hawaii/hawaii2.jpg",
+            "http://localhost:5050/hawaii/hawaii3.jpg",
+            "http://localhost:5050/hawaii/hawaii4.jpg",
+            "http://localhost:5050/hawaii/hawaii5.jpg",
+            "http://localhost:5050/hawaii/hawaii6.jpg"
         ]
     },
     {
@@ -17,12 +17,12 @@
         "name": "Greece",
         "video": "http://localhost:5050/greece/greeceVideo.mp4",
         "landscape": [
-            "http://localhost:5050/greece/greece1.mp4",
-            "http://localhost:5050/greece/greece2.mp4",
-            "http://localhost:5050/greece/greece3.mp4",
-            "http://localhost:5050/greece/greece4.mp4",
-            "http://localhost:5050/greece/greece5.mp4",
-            "http://localhost:5050/greece/greece6.mp4"
+            "http://localhost:5050/greece/greece1.jpg",
+            "http://localhost:5050/greece/greece2.jpg",
+            "http://localhost:5050/greece/greece3.jpg",
+            "http://localhost:5050/greece/greece4.jpg",
+            "http://localhost:5050/greece/greece5.jpg",
+            "http://localhost:5050/greece/greece6.jpg"
         ]
     },
     {
@@ -30,12 +30,12 @@
         "name": "Vietnam",
         "video": "http://localhost:5050/vietnam/vietnamVideo.mp4",
         "landscape": [
-            "http://localhost:5050/vietnam/vietnam1.mp4",
-            "http://localhost:5050/vietnam/vietnam2.mp4",
-            "http://localhost:5050/vietnam/vietnam3.mp4",
-            "http://localhost:5050/vietnam/vietnam4.mp4",
-            "http://localhost:5050/vietnam/vietnam5.mp4",
-            "http://localhost:5050/vietnam/vietnam6.mp4"
+            "http://localhost:5050/vietnam/vietnam1.jpg",
+            "http://localhost:5050/vietnam/vietnam2.jpg",
+            "http://localhost:5050/vietnam/vietnam3.jpg",
+            "http://localhost:5050/vietnam/vietnam4.jpg",
+            "http://localhost:5050/vietnam/vietnam5.jpg",
+            "http://localhost:5050/vietnam/vietnam6.jpg"
         ]
     },
     {
@@ -43,12 +43,51 @@
         "name": "Scotland",
         "video": "http://localhost:5050/scotland/scotlandVideo.mp4",
         "landscape": [
-            "http://localhost:5050/scotland/scotland1.mp4",
-            "http://localhost:5050/scotland/scotland2.mp4",
-            "http://localhost:5050/scotland/scotland3.mp4",
-            "http://localhost:5050/scotland/scotland4.mp4",
-            "http://localhost:5050/scotland/scotland5.mp4",
-            "http://localhost:5050/scotland/scotland6.mp4"
+            "http://localhost:5050/scotland/scotland1.jpg",
+            "http://localhost:5050/scotland/scotland2.jpg",
+            "http://localhost:5050/scotland/scotland3.jpg",
+            "http://localhost:5050/scotland/scotland4.jpg",
+            "http://localhost:5050/scotland/scotland5.jpg",
+            "http://localhost:5050/scotland/scotland6.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Mexico",
+        "video": "http://localhost:5050/mexico/mexicoVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/mexico/mexico1.jpg",
+            "http://localhost:5050/mexico/mexico2.jpg",
+            "http://localhost:5050/mexico/mexico3.jpg",
+            "http://localhost:5050/mexico/mexico4.jpg",
+            "http://localhost:5050/mexico/mexico5.jpg",
+            "http://localhost:5050/mexico/mexico6.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Aukland",
+        "video": "http://localhost:5050/aukland/auklandVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/aukland/aukland1.jpg",
+            "http://localhost:5050/aukland/aukland2.jpg",
+            "http://localhost:5050/aukland/aukland3.jpg",
+            "http://localhost:5050/aukland/aukland4.jpg",
+            "http://localhost:5050/aukland/aukland5.jpg",
+            "http://localhost:5050/aukland/aukland6.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Paris",
+        "video": "http://localhost:5050/paris/parisVideo.mp4",
+        "landscape": [
+            "http://localhost:5050/paris/paris1.jpg",
+            "http://localhost:5050/paris/paris2.jpg",
+            "http://localhost:5050/paris/paris3.jpg",
+            "http://localhost:5050/paris/paris4.jpg",
+            "http://localhost:5050/paris/paris5.jpg",
+            "http://localhost:5050/paris/paris6.jpg"
         ]
     }
 ]

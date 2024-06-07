@@ -1,13 +1,13 @@
     {
         "id": "2",
-        "name": "scotland",
-        "video": "./imgs-vids/scotland/scotlandVideo.mp4",
+        "name": "paris",
+        "video": "http://localhost:5050/paris/parisVideo.mp4",
         "landscape": [
-            "./imgs-vids/scotland/scotland1.mp4",
-            "./imgs-vids/scotland/scotland2.mp4",
-            "./imgs-vids/scotland/scotland3.mp4",
-            "./imgs-vids/scotland/scotland4.mp4",
-            "./imgs-vids/scotland/scotland5.mp4",
-            "./imgs-vids/scotland/scotland6.mp4"
+            "http://localhost:5050/paris/paris1.jpg",
+            "http://localhost:5050/paris/paris2.jpg",
+            "http://localhost:5050/paris/paris3.jpg",
+            "http://localhost:5050/paris/paris4.jpg",
+            "http://localhost:5050/paris/paris5.jpg",
+            "http://localhost:5050/paris/paris6.jpg"
         ]
-    }
+    },
