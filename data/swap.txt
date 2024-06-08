@@ -1,6 +1,7 @@
     {
         "id": "2",
         "name": "paris",
+        "flag": "http://localhost:5050/paris/parisFlag.png",
         "video": "http://localhost:5050/paris/parisVideo.mp4",
         "landscape": [
             "http://localhost:5050/paris/paris1.jpg",
