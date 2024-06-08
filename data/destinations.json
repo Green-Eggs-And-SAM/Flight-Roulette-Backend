@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Hawaii",
         "flag": "http://localhost:5050/hawaii/hawaiiFlag.png",
         "video": "http://localhost:5050/hawaii/hawaiiVideo.mp4",
@@ -11,10 +11,11 @@
             "http://localhost:5050/hawaii/hawaii4.jpg",
             "http://localhost:5050/hawaii/hawaii5.jpg",
             "http://localhost:5050/hawaii/hawaii6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Greece",
         "flag": "http://localhost:5050/greece/greeceFlag.png",
         "video": "http://localhost:5050/greece/greeceVideo.mp4",
@@ -25,10 +26,11 @@
             "http://localhost:5050/greece/greece4.jpg",
             "http://localhost:5050/greece/greece5.jpg",
             "http://localhost:5050/greece/greece6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Vietnam",
         "flag": "http://localhost:5050/vietnam/vietnamFlag.png",
         "video": "http://localhost:5050/vietnam/vietnamVideo.mp4",
@@ -39,10 +41,11 @@
             "http://localhost:5050/vietnam/vietnam4.jpg",
             "http://localhost:5050/vietnam/vietnam5.jpg",
             "http://localhost:5050/vietnam/vietnam6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Scotland",
         "flag": "http://localhost:5050/scotland/scotlandFlag.png",
         "video": "http://localhost:5050/scotland/scotlandVideo.mp4",
@@ -53,10 +56,11 @@
             "http://localhost:5050/scotland/scotland4.jpg",
             "http://localhost:5050/scotland/scotland5.jpg",
             "http://localhost:5050/scotland/scotland6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Mexico",
         "flag": "http://localhost:5050/mexico/mexicoFlag.png",
         "video": "http://localhost:5050/mexico/mexicoVideo.mp4",
@@ -67,10 +71,11 @@
             "http://localhost:5050/mexico/mexico4.jpg",
             "http://localhost:5050/mexico/mexico5.jpg",
             "http://localhost:5050/mexico/mexico6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Aukland",
         "flag": "http://localhost:5050/aukland/auklandFlag.png",
         "video": "http://localhost:5050/aukland/auklandVideo.mp4",
@@ -81,10 +86,11 @@
             "http://localhost:5050/aukland/aukland4.jpg",
             "http://localhost:5050/aukland/aukland5.jpg",
             "http://localhost:5050/aukland/aukland6.jpg"
-        ]
+        ],
+        "points": 0
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Paris",
         "flag": "http://localhost:5050/paris/parisFlag.png",
         "video": "http://localhost:5050/paris/parisVideo.mp4",
@@ -95,6 +101,7 @@
             "http://localhost:5050/paris/paris4.jpg",
             "http://localhost:5050/paris/paris5.jpg",
             "http://localhost:5050/paris/paris6.jpg"
-        ]
+        ],
+        "points": 0
     }
 ]
