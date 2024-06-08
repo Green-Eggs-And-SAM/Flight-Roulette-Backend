@@ -75,7 +75,15 @@ router.put("/add-points", (req, res) => {
                 parseInt(req.body[i].newPoint);
         }
         console.log("countries", countries);
-        res.status(200).json("Points added");
+
+        fs.writeFile(path, JSON.stringify(countries), (err) => {
+            if (err) {
+                console.error("Error writing to file:", err);
+                return res.status(500).json({ error: "Error updating JSON " });
+            }
+            console.log("Data has been written to", path);
+            res.status(200).json("Points added");
+        });
     } catch (error) {
         console.log(error);
         res.status(400).send("Error getting video");
