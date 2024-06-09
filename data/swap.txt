@@ -1,15 +1,15 @@
     {
-        "id": "2",
-        "name": "London",
-        "flag": "http://localhost:5050/london/londonFlag.png",
-        "video": "http://localhost:5050/london/londonVideo.mp4",
+        "id": 13,
+        "name": "Switzerland",
+        "flag": "http://localhost:5050/switzerland/switzerlandFlag.png",
+        "video": "http://localhost:5050/switzerland/switzerlandVideo.mp4",
         "landscape": [
-            "http://localhost:5050/london/london1.jpg",
-            "http://localhost:5050/london/london2.jpg",
-            "http://localhost:5050/london/london3.jpg",
-            "http://localhost:5050/london/london4.jpg",
-            "http://localhost:5050/london/london5.jpg",
-            "http://localhost:5050/london/london6.jpg"
+            "http://localhost:5050/switzerland/switzerland1.jpg",
+            "http://localhost:5050/switzerland/switzerland2.jpg",
+            "http://localhost:5050/switzerland/switzerland3.jpg",
+            "http://localhost:5050/switzerland/switzerland4.jpg",
+            "http://localhost:5050/switzerland/switzerland5.jpg",
+            "http://localhost:5050/switzerland/switzerland6.jpg"
         ],
          "points": 2
     },
