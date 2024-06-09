@@ -1,14 +1,15 @@
     {
         "id": "2",
-        "name": "paris",
-        "flag": "http://localhost:5050/paris/parisFlag.png",
-        "video": "http://localhost:5050/paris/parisVideo.mp4",
+        "name": "London",
+        "flag": "http://localhost:5050/london/londonFlag.png",
+        "video": "http://localhost:5050/london/londonVideo.mp4",
         "landscape": [
-            "http://localhost:5050/paris/paris1.jpg",
-            "http://localhost:5050/paris/paris2.jpg",
-            "http://localhost:5050/paris/paris3.jpg",
-            "http://localhost:5050/paris/paris4.jpg",
-            "http://localhost:5050/paris/paris5.jpg",
-            "http://localhost:5050/paris/paris6.jpg"
-        ]
+            "http://localhost:5050/london/london1.jpg",
+            "http://localhost:5050/london/london2.jpg",
+            "http://localhost:5050/london/london3.jpg",
+            "http://localhost:5050/london/london4.jpg",
+            "http://localhost:5050/london/london5.jpg",
+            "http://localhost:5050/london/london6.jpg"
+        ],
+         "points": 2
     },
