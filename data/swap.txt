@@ -1,15 +1,15 @@
     {
-        "id": 13,
-        "name": "Switzerland",
-        "flag": "http://localhost:5050/switzerland/switzerlandFlag.png",
-        "video": "http://localhost:5050/switzerland/switzerlandVideo.mp4",
+        "id": 20,
+        "name": "Thailand",
+        "flag": "http://localhost:5050/thailand/thailandFlag.png",
+        "video": "http://localhost:5050/thailand/thailandVideo.mp4",
         "landscape": [
-            "http://localhost:5050/switzerland/switzerland1.jpg",
-            "http://localhost:5050/switzerland/switzerland2.jpg",
-            "http://localhost:5050/switzerland/switzerland3.jpg",
-            "http://localhost:5050/switzerland/switzerland4.jpg",
-            "http://localhost:5050/switzerland/switzerland5.jpg",
-            "http://localhost:5050/switzerland/switzerland6.jpg"
+            "http://localhost:5050/thailand/thailand1.jpg",
+            "http://localhost:5050/thailand/thailand2.jpg",
+            "http://localhost:5050/thailand/thailand3.jpg",
+            "http://localhost:5050/thailand/thailand4.jpg",
+            "http://localhost:5050/thailand/thailand5.jpg",
+            "http://localhost:5050/thailand/thailand6.jpg"
         ],
-         "points": 2
+         "points": 20
     },

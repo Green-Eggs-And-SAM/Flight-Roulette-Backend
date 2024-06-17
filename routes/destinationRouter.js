@@ -7,6 +7,7 @@ router.get("/", (req, res) => {
     res.json(destinations);
 });
 
+//get a list of names, flags and points
 router.get("/names-flags-list", (req, res) => {
     try {
         const dataArr = JSON.parse(fs.readFileSync("./data/destinations.json"));
@@ -26,6 +27,7 @@ router.get("/names-flags-list", (req, res) => {
     }
 });
 
+//return an object of the requested country
 router.get("/:name", (req, res) => {
     try {
         const foundDestination = destinations.find(
@@ -33,6 +35,7 @@ router.get("/:name", (req, res) => {
                 item.name.toLowerCase() === req.params.name.toLocaleLowerCase()
         );
         console.log(foundDestination);
+        //new object with name, flag, array of landscape images.
         let obj = {};
         obj.name = foundDestination.name;
         obj.flag = foundDestination.flag;
@@ -45,6 +48,7 @@ router.get("/:name", (req, res) => {
     }
 });
 
+//Get the video from the requested country
 router.get("/:name/video", (req, res) => {
     try {
         const foundDestination = destinations.find(
@@ -58,11 +62,13 @@ router.get("/:name/video", (req, res) => {
     }
 });
 
+//Add the points from the game to the stored total.
 router.put("/add-points", (req, res) => {
     try {
         const path = "data/destinations.json";
+        //get all countries as objects.
         const countries = JSON.parse(fs.readFileSync(path));
-        // console.log("countries", countries);
+        //loop through each country object. Add those points to the appropriate country
         for (let i = 0; i < req.body.length; i++) {
             const foundDestination = countries.find(
                 (item) =>
@@ -74,8 +80,7 @@ router.put("/add-points", (req, res) => {
                 parseInt(foundDestination.points) +
                 parseInt(req.body[i].newPoint);
         }
-        console.log("countries", countries);
-
+        //write updated data
         fs.writeFile(path, JSON.stringify(countries), (err) => {
             if (err) {
                 console.error("Error writing to file:", err);
